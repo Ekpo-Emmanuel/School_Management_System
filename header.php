@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="https://www.clipartkey.com/mpngs/m/322-3228789_school-management-software-system-branded-sms-pakistan-icon.png" type="image/x-icon">
   <title>School Managemnt System Project</title>
-  <!-- Font Awesome -->
+  <!-- Font Awsome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
   <!-- Google Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
